@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm Aleena Burney.  
 
-I'm a B.Tech CS/IT student and an aspiring software engineer exploring the world of tech. I have a deep interest in AI, Blockchain, Game Development, and Cybersecurity. Currently, I'm sharpening my skills in DSA, learning APIs, Postman, MongoDB, and more while working on exciting projects.  
-
-I'm fascinated by cutting-edge technologies and how they shape the future. My tech stack includes Java, C, Python, MERN Stack, MySQL, AI, and Machine Learning. I love breaking things to understand how they work and figuring things out one bug at a time. 🛠️🐛  
-
 
 Let's connect! 🚀  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleena-burney/)  
