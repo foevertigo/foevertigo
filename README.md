@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Aleena Burney.  
+# Hi! 👋 I'm Aleena Burney.  
 
 
 Let's connect! 🚀  
