@@ -1,5 +1,6 @@
 # Hi! 👋 I'm Aleena Burney.  
-![Metrics](https://metrics.lecoq.io/foevertigo?template=classic&base=header,activity,community,repositories,metadata&isocalendar=1&languages=1&stargazers=1&music=1&leetcode=1&music.provider=spotify&music.user=aleena&leetcode.user=foevertigo&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/foevertigo)
+
 
 
 Let's connect! 🚀  
