@@ -1,5 +1,6 @@
 # Hi! 👋 I'm Aleena Burney.  
 
+![Metrics](https://github.com/foevertigo/metrics/blob/main/metrics.svg)
 
 Let's connect! 🚀  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleena-burney/)  
