@@ -1,5 +1,6 @@
 # Hi! 👋 I'm Aleena Burney.  
 
+![Metrics](https://raw.githubusercontent.com/foevertigo/foevertigo/main/github-metrics.svg)
 
 
 Let's connect! 🚀  
