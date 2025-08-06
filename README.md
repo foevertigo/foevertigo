@@ -1,6 +1,8 @@
 # Hi! 👋 I'm Aleena Burney.  
-![Metrics](https://metrics.lecoq.io/foevertigo)
 
+<p align="center">
+  <img src="./james you made me happy.jpg" width="100%" alt="Silent Hill Vibes" />
+</p>
 
 
 Let's connect! 🚀  
