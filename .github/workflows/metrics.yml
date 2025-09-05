@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           filename: metrics.svg
           plugin_isocalendar: yes
@@ -18,3 +18,4 @@ jobs:
           plugin_isocalendar_colors: solid # solid blocks
           plugin_isocalendar_legend: no
           plugin_isocalendar_shape: 3d # this makes it 3D blocks
+
