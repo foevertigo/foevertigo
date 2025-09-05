@@ -7,9 +7,10 @@
 
 
 <p align="center">
-  <!-- 3D contribution graph -->
-  <img src="./metrics.svg" alt="3D Contribution Graph" />
+  <!-- from output branch -->
+  <img src="https://raw.githubusercontent.com/foevertigo/foevertigo/output/profile-3d-contrib.svg" alt="3D Contribution Calendar" />
 </p>
+
 
 ---
 
