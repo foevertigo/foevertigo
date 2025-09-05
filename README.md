@@ -1,5 +1,42 @@
 ![Cool animation](rei.jpeg)
 
+<br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=foevertigo&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=foevertigo&theme=highcontrast&hide_border=false)<br/>
