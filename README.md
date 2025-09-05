@@ -1,10 +1,25 @@
-
-<!-- 🔝 HEADER GIF -->
 <p align="center">
-  <img src="./assets/header.gif" width="100%" alt="Silent Hill Vibes" />
+  <!-- Replace header.gif with your own gif -->
+  <img src="./header.gif" width="100%" alt="My GitHub Header" />
 </p>
 
-<!-- 📊 STATS SECTION -->
+---
+
+<p align="center">
+  <!-- Snake contribution game -->
+  <img src="https://raw.githubusercontent.com/foevertigo/foevertigo/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <!-- 3D contribution graph -->
+  <img src="./metrics.svg" alt="3D Contribution Graph" />
+</p>
+
+---
+
+<!-- GitHub stats -->
 ![](https://github-readme-stats.vercel.app/api?username=foevertigo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=foevertigo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=foevertigo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -13,20 +28,7 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/foevertigo/foevertigo/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="./metrics.svg" alt="3D Contribution Graph" />
-</p>
-
----
-
-
-
-<!-- 👣 VISITOR COUNT -->
 [![](https://visitcount.itsvg.in/api?id=foevertigo&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
