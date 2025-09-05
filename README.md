@@ -1,4 +1,4 @@
-![Cool animation](assets/my.gif)
+![Cool animation](my.gif.gif)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=foevertigo&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
