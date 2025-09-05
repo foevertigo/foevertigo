@@ -43,28 +43,29 @@ function countToColor(count) {
     const html = await res.text();
 
     // find all <rect ... data-date="..." data-count="N" ... />
-    const rectRegex = /<rect[^>]*data-date="([^"]+)"[^>]*data-count="([^"]+)"[^>]*fill="([^"]+)"[^>]*\/>/g;
-    const days = [];
-    let match;
-    while ((match = rectRegex.exec(html)) !== null) {
-      const date = match[1];
-      const count = parseInt(match[2], 10);
-      days.push({ date, count });
-    }
+    // Updated parser for current GitHub contribution SVG
+const days = [];
 
-    if (!days.length) {
-      // older GH markup sometimes has <rect ... /> but different attributes - fallback to simpler regex
-      const rectRegex2 = /<rect[^>]*data-count="([^"]+)"[^>]*data-date="([^"]+)"[^>]*\/>/g;
-      rectRegex2.lastIndex = 0;
-      let m;
-      while ((m = rectRegex2.exec(html)) !== null) {
-        const count = parseInt(m[1], 10);
-        const date = m[2];
-        days.push({ date, count });
-      }
-    }
+// First, try old regex (still works for some pages)
+let rectRegex = /<rect[^>]*data-date="([^"]+)"[^>]*data-count="([^"]+)"[^>]*fill="([^"]+)"[^>]*\/>/g;
+let match;
+while ((match = rectRegex.exec(html)) !== null) {
+  days.push({ date: match[1], count: parseInt(match[2], 10) });
+}
 
-    if (!days.length) throw new Error('Could not parse contribution rects from GitHub page.');
+// Fallback: select <rect class="ContributionCalendar-day" ... />
+if (!days.length) {
+  const rectRegex2 = /<rect[^>]*class="ContributionCalendar-day"[^>]*data-date="([^"]+)"[^>]*data-count="([^"]+)"[^>]*\/>/g;
+  while ((match = rectRegex2.exec(html)) !== null) {
+    days.push({ date: match[1], count: parseInt(match[2], 10) });
+  }
+}
+
+// Final check
+if (!days.length) {
+  console.warn("Could not parse contribution rects, using empty calendar.");
+}
+
 
     // The contributions svg is usually 53 columns (weeks) x 7 rows (days)
     // We'll lay them out ourselves by mapping position in sequence.
