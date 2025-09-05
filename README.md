@@ -13,17 +13,18 @@
 
 ---
 
-<!-- 🐍 SNAKE GAME -->
-## 🐍 Contribution Snake
-![GitHub Snake](https://github.com/foevertigo/foevertigo/blob/output/snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/foevertigo/foevertigo/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="./metrics.svg" alt="3D Contribution Graph" />
+</p>
 
 ---
 
-<!-- 🏢 3D CONTRIBUTION GRAPH -->
-## 🏢 3D Contribution Graph
-![3D Contribution Graph](https://github.com/foevertigo/foevertigo/blob/output/profile-3d-contrib.svg)
 
----
 
 <!-- 👣 VISITOR COUNT -->
 [![](https://visitcount.itsvg.in/api?id=foevertigo&icon=0&color=0)](https://visitcount.itsvg.in)
