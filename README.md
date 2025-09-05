@@ -5,12 +5,6 @@
 
 ---
 
-<p align="center">
-  <!-- Snake contribution game -->
-  <img src="https://raw.githubusercontent.com/foevertigo/foevertigo/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 <p align="center">
   <!-- 3D contribution graph -->
